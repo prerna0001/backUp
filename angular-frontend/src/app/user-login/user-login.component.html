@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>CollabJunction</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/w3.css">
+  <script src="assets/js/jquery.js"></script>
+  <script src="assets/js/popper.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <div class="bg-dark w3-padding w3-text-white w3-xlarge w3-card-2 sticky-top">
+    
+    <button class="btn btn-primary w3-right" data-toggle="modal" data-target="#loginModal"><i class="fas fa-sign-in-alt"></i> Login</button>
+  </div>
+
+  <!-- Login Modal -->
+  <div class="modal fade" id="loginModal">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="modal-title">LOGIN</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        
+        <!-- Modal body -->
+        <div class="modal-body">
+          <!-- Navigation Buttons -->
+          <ul class="nav nav-pills" role="tablist">
+            <li class="nav-item w3-center" style="width: 33%;">
+              <a class="nav-link active" data-toggle="pill" href="#home">Restaurant</a>
+            </li>
+            <li class="nav-item w3-center" style="width: 33%;">
+              <a class="nav-link" data-toggle="pill" href="#menu1">Charity</a>
+            </li>
+            <li class="nav-item w3-center" style="width: 33%;">
+              <a class="nav-link" data-toggle="pill" href="#menu2">Delivery Boy</a>
+            </li>
+          </ul>
+
+          <!-- navigation Body -->
+          <div class="tab-content">
+            <div id="home" class="container tab-pane active"><br>
+              <form>
+                <label>Username</label><br>
+                <input type="text" name="username" class="form-control"><br>
+                <label>Password</label><br>
+                <input type="text" name="pwd" class="form-control"><br>
+                <a style="cursor: pointer;" href="signup.html" class="w3-right text-primary"><label>New User? Click here</label></a><br><br>
+                <button class="btn bg-dark w3-wide w3-text-white" style="width: 50%;">LOGIN</button>
+              </form>
+            </div>
+            <div id="menu1" class="container tab-pane fade"><br>
+              <form>
+                <label>Username</label><br>
+                <input type="text" name="username" class="form-control"><br>
+                <label>Password</label><br>
+                <input type="text" name="pwd" class="form-control"><br>
+                <label class="w3-right text-primary"><a href="#">New User? Click here</a></label><br><br>
+                <button class="btn bg-dark w3-wide w3-text-white" style="width: 50%;">LOGIN</button>
+              </form>
+            </div>
+            <div id="menu2" class="container tab-pane fade"><br>
+              <form>
+                <label>Username</label><br>
+                <input type="text" name="username" class="form-control"><br>
+                <label>Password</label><br>
+                <input type="text" name="pwd" class="form-control"><br>
+                <label class="w3-right text-primary"><a href="#">New User? Click here</a></label><br><br>
+                <button class="btn bg-dark w3-wide w3-text-white" style="width: 50%;">LOGIN</button>
+              </form>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modal footer -->
+        <div class="bg-dark" style="padding: 18px;">
+          <label class="w3-text-white">&copy; Copyright Reserved Wastage Reduction</label>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+<!-- <mat-toolbar color="primary"  class="fixed-header">
+  <mat-toolbar-row>
+  <span>CollabJunction</span>
+    <div class="header">
+      <span class="example-fill-remaining-space"></span>
+      <span class="align-auto"></span>
+      <span class="example-spacer"></span>
+      
+      <button mat-button>Home</button>
+      <button mat-button>How It Works</button>
+      <button mat-button routerLink='/register' routerLinkActive="active">Sign Up!</button>
+      <button mat-icon-button [matMenuTriggerFor]="menu"><mat-icon>more_vert</mat-icon></button>
+      <mat-menu class="menu" #menu="matMenu">
+        <button mat-menu-item>
+          <mat-icon>account_circle</mat-icon>
+          <span>Profile</span>
+        </button>
+        <button mat-menu-item>
+          <mat-icon>settings</mat-icon>
+          <span>Account settings</span>
+        </button>
+      </mat-menu>
+    </div>
+  </mat-toolbar-row>
+</mat-toolbar>
+
+<mat-card class="example-card">
+  <div class="card">
+    <mat-card-header>
+      <mat-card-title>Login</mat-card-title>
+    </mat-card-header>
+      <mat-card-content>
+        <form class="example-form">
+          <table class="example-full-width" cellspacing="0">
+            <tr>
+              <td>
+                <mat-form-field class="example-full-width">
+                  <input matInput #userName placeholder="Username" name="userName" required>             
+                </mat-form-field>
+              </td>
+            </tr>
+            <tr>
+            <td>
+              <mat-form-field class="example-full-width">
+                <input matInput #password placeholder="Password" type="password" name="password" required>
+              
+              
+              </mat-form-field></td>
+            </tr>
+          </table>
+          <a routerLink='/register' routerLinkActive="active">Not Registered yet? Click here!</a>
+        </form>
+      </mat-card-content>
+      <div *ngIf = "loggedIn"> ***You Are the invalid User ***</div>
+      <mat-card-actions>
+        <button class="login-button" mat-raised-button (click)="authenticateUser(userName.value, password.value)" color="primary">Login</button>
+      </mat-card-actions>
+  </div>
+</mat-card> 
+
+
+
+
+ -->
+
+
+  

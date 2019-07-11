@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+       http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+
+
+    <bean id="movie4" autowire="byType" class="com.stackroute.domain.Movie">
+        <property name="movieName" value="Avengers"></property>
+        <property name="director" value="Tony"></property>
+    </bean>
+
+    <!--    <bean id="Actor" class="com.stackroute.domain.Actor">-->
+    <!--        <property name="name" value="tony"></property>-->
+    <!--        <property name="age" value="50"></property>-->
+    <!--        <property name="gender" value="male"></property>-->
+    <!--    </bean>-->
+
+    <bean id="movie5" autowire="byName" class="com.stackroute.domain.Movie">
+        <property name="movieName" value="Avengers"></property>
+        <property name="director" value="Tony"></property>
+    </bean>
+
+    <bean id="actor" class="com.stackroute.domain.Actor">
+        <property name="name" value="Tony"></property>
+        <property name="age" value="50"></property>
+        <property name="gender" value="male"></property>
+    </bean>
+
+    <!--    <bean id="movie6" autowire="constructor" class="com.stackroute.domain.Movie">-->
+    <!--        <property name="movieName" value="IronMan"></property>-->
+    <!--        <property name="director" value="Scarlett"></property>-->
+    <!--    </bean>-->
+
+    <!--    <bean id="actor" class="com.stackroute.domain.Actor">-->
+    <!--        <constructor-arg index="0" value="Cris"></constructor-arg>-->
+    <!--        <constructor-arg index="1" value="40"></constructor-arg>-->
+    <!--        <constructor-arg index="2" value="Male"></constructor-arg>-->
+    <!--    </bean>-->
+    <bean id="lifecycledemo" class="com.stackroute.domain.LifeCycleDemo" init-method="customInit" destroy-method="customDestroy">
+
+    </bean>
+
+    <bean id="postprocessor" class="com.stackroute.domain.PostProcessorDemo"></bean>
+
+</beans>

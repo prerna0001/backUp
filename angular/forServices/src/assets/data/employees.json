@@ -1,0 +1,7 @@
+[
+    {"id" : 1, "name" : "prerna", "age":22},
+    {"id" : 2, "name" : "demon", "age":78},
+    {"id" : 3, "name" : "matata", "age":8},
+    {"id" : 4, "name" : "hakuna", "age":77},
+    {"id" : 4, "name" : "this is test for observable", "age":77}
+]

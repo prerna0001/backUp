@@ -1,0 +1,15 @@
+body{
+	margin-left: 500px;
+	background-color: #cccccc;
+	font-family: arial;
+}
+
+
+
+.para2, .para1{
+	width: 600px;
+	text-indent: 20px;
+	line-height: 50px;
+	border: 1px solid white;
+	text-align: center;
+}

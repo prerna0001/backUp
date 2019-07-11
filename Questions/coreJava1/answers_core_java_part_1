@@ -1,0 +1,22 @@
+This File consits answers to questions mentioned in "core_java_part_1.pdf":
+
+	Ans.1. a, b and c are correct.
+	Ans.2. c is correct
+	Ans.3. c and d are correct
+	Ans.4. All are correct
+	Ans.5. All are correct
+	Ans.6. All are correct
+	Ans.7. b is correct
+	Ans.8. a abd b are correct
+	Ans.9. True
+	Ans.10. a is correct
+	Ans.11. b -Serialization
+	Ans.12. a -represents supplier of Boolean-valued results
+	Ans.13. d -Function
+	Ans.14. c -StringList.forEach()
+	Ans.15. a -sequential and parallel
+	Ans.16. b -newWorkStealingPool
+	Ans.17. b -It reads all the lines from a file as a Stream 
+	Ans.18. c -Optional is used to represent null with absent value
+	Ans.19. a -Nashorn
+	Ans.20. b -Single Abstract Method

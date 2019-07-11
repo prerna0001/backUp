@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+
+<html>
+	<head lang="en">		
+		<!-- Bootstrap CSS -->
+		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<link href="includes/css/bootstrap-glyphicons.css" rel="stylesheet">
+		
+		<!-- Custom CSS -->
+		<link rel="stylesheet" href="includes/css/styles.css">
+		
+		<!-- Include Modernizr in the head, before any other Javascript -->
+		<script src="includes/js/modernizr-2.6.2.min.js"></script>
+		<!--title of the web page-->
+		<title>Bootstrap Assignment</title>
+		<!--meta tags-->
+	  	<meta charset = "utf-8"/>
+	    <meta name="description" content="Dadhkar Fort, Rajasthan">
+	    <meta name="keywords" content="Fort, Palace, Hotel, Tourisom, Tradition, Royal Weddings, Meetings, Receptions">
+	    <meta name="author" content="Prerna Chauhan">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+	    <!--links to google fonts-->
+	  	<link href="https://fonts.googleapis.com/css?family=Great+Vibes" rel="stylesheet"/>
+	  	<!--links to style sheet-->
+	  	<link rel="stylesheet" type="text/css" href="css/style.css"/>
+	  	<link rel="stylesheet" type="text/css" href="css/text.css"/>
+	  	<link rel="stylesheet" type="text/css" href="css/960_12_col.css"/>
+	  	<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+	  	<link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"/>   
+		
+	</head>
+
+	<body>
+		<div clss="main"> <!--main body-->
+			<div class="container" id="main">
+			
+				<div class="navbar navbar-fixed-top">
+					<div class="container">
+						
+						<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+						<button class="navbar-toggle" data-target=".navbar-responsive-collapse" data-toggle="collapse" type="button">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+					
+						<a class="navbar-brand" href="#"><h3>Dhadhkar</h3></a>
+						
+						<div class="nav-collapse collapse navbar-responsive-collapse">
+							<ul class="nav navbar-nav">
+								<li class="active">
+									<a href="#">Home</a>
+								</li>
+								
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <strong class="caret"></strong></a>
+									
+									<ul class="dropdown-menu">
+										<li>
+											<a href="#">Bookings</a>
+										</li>
+										
+										<li>
+											<a href="#">Royal Weddings</a>
+										</li>
+										
+										<li>
+											<a href="#">Business Trips</a>
+										</li>
+										
+										<li class="divider"></li>
+										
+										<li class="dropdown-header">More Services</li>
+										
+										<li>
+											<a href="#">Site seeing</a>
+										</li>
+										
+										<li>
+											<a href="#">Safari</a>
+										</li>
+									</ul><!-- end dropdown-menu -->
+								</li>
+							</ul>
+							
+							<form class="navbar-form pull-left">
+								<input type="text" class="form-control" placeholder="Search this site..." id="searchInput">
+								<button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+							</form><!-- end navbar-form -->
+							
+							<ul class="nav navbar-nav pull-right">
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-user"></span> My Account <strong class="caret"></strong></a>
+									
+									<ul class="dropdown-menu">
+										<li>
+											<a href="#"><span class="glyphicon glyphicon-wrench"></span> Settings</a>
+										</li>
+										
+										<li>
+											<a href="#"><span class="glyphicon glyphicon-refresh"></span> Update Profile</a>
+										</li>
+										
+										<li>
+											<a href="#"><span class="glyphicon glyphicon-briefcase"></span> Billing</a>
+										</li>
+										
+										<li class="divider"></li>
+										
+										<li>
+											<a href="#"><span class="glyphicon glyphicon-off"></span> Sign out</a>
+										</li>
+									</ul>
+								</li>
+							</ul><!-- end nav pull-right -->
+						</div><!-- end nav-collapse -->
+					
+					</div><!-- end container -->
+				</div><!-- end navbar -->
+			
+				
+				<div class="carousel slide" id="myCarousel">
+				
+					<!-- Indicators -->
+					<ol class="carousel-indicators">
+						<li class="active" data-slide-to="0" data-target="#myCarousel"></li>
+						<li data-slide-to="1" data-target="#myCarousel"></li>
+						<li data-slide-to="2" data-target="#myCarousel"></li>
+					</ol>
+				
+					<!-- Wrapper for slides -->
+					<div class="carousel-inner">
+						<div class="item active" id="slide1">
+							<div class="carousel-caption">
+								<h4>Unforgettable</h4>
+								<p>Experiance unforgettable Royalality</p>
+							</div><!-- end carousel-caption-->
+						</div><!-- end item -->
+						
+						<div class="item" id="slide2">
+							<div class="carousel-caption">
+								<h4>Nature</h4>
+								<p>In Lap of Nature</p>
+							</div><!-- end carousel-caption-->
+						</div><!-- end item -->
+						
+						<div class="item" id="slide3">
+							<div class="carousel-caption">
+								<h4>Traditional</h4>
+								<p>Witness our Tradition</p>
+							</div><!-- end carousel-caption-->
+						</div><!-- end item -->
+					</div><!-- carousel-inner -->
+					
+					<!-- Controls -->
+					<a class="left carousel-control" data-slide="prev" href="#myCarousel"><span class="icon-prev"></span></a>
+					<a class="right carousel-control" data-slide="next" href="#myCarousel"><span class="icon-next"></span></a>
+				
+				</div><!-- end myCarousel -->
+				
+				
+				<div class="row" id="bigCallout">
+					<div class="col-12">
+										
+						<div class="well">
+							<div class="page-header">
+								<h1>Dhadhkar Fort <small>A heritage</small></h1>
+							</div><!-- end page-header -->
+							
+							<p class="lead">Primitive Rock Cave Paintings in Aravali Hills dating back to 5-7 thousand years at a distance of 2 km from Dadhkar Hotel includes multi-deity Shrine of a Sun Foast Lord, Buffalo & Elephant. These painting shed light on prehistoric religion & culture</p>
+						</div><!-- end well -->
+						
+					</div><!-- end col-12 -->
+				</div><!-- end bigCallout -->
+				
+				
+				<div class="row" id="featuresHeading">
+					<div class="col-12">
+						<h2>Some Glimpes</h2>
+					</div><!-- end col-12 -->
+				</div><!-- end featuresHeading -->
+				
+				
+				<div class="row" id="features">
+					<div class="col-sm-4 feature">
+						<div class="panel">
+							<div class="panel-heading">
+								<h3 class="panel-title">Site-Seeing</h3>
+							</div><!-- end panel-heading -->
+							<img src="images/cir1.jpg" alt="A man on boat" class="img-circle">
+							
+							<p>The famous heritage hotel in Alwar - Rajasthan India, The Dadhkar Fort is one of the most stunning heritage properties. Surrounded by Aravalli hills on all sides and lush green forests nearby, this hotel is a complete paradise for nature lovers</p>
+							
+						</div><!-- end panel -->
+					</div><!-- end feature -->
+					
+					<div class="col-sm-4 feature">
+						<div class="panel">
+							<div class="panel-heading">
+								<h3 class="panel-title">Nature</h3>
+							</div><!-- end panel-heading -->
+							<img src="images/circle2.jpg" alt="rooftop cafe" class="img-circle">
+							
+							<p>The dining experience is pure delight at the hotel’s on-site multi-cuisine restaurant Akshyabatloi which specializes in Indian and Rajasthani delicacies. The guests enjoy the exotic picturesque sights of the majestic Aravalli hills from this rooftop restaurant.</p>
+							
+						</div><!-- end panel -->
+					</div><!-- end feature -->
+					
+					<div class="col-sm-4 feature">
+						<div class="panel">
+							<div class="panel-heading">
+								<h3 class="panel-title">Tradition</h3>
+							</div><!-- end panel-heading -->
+							<img src="images/cir3.jpg" alt="one woman and one man performing dance" class="img-circle">
+							
+							<p>We at Dadhkar hotel aim to celebrate your auspicious and special occassion, giving you the best luxurious experience with the most special memories. Dadhikar Fort is known for keeping alive the great heritage, tradition and royal culture with utmost hospitality.</p>
+							
+						</div><!-- end panel -->
+					</div><!-- end feature -->
+				</div><!-- end features -->
+				
+				
+				<div class="row" id="moreInfo">
+					<div class="col-sm-6">
+						<h3>Our Locations</h3>
+						<div class="tabbable">
+							<ul class="nav nav-tabs">
+								<li class="active"><a href="#tab1" data-toggle="tab">Alwar</a></li>
+								<li><a href="#tab2" data-toggle="tab">comments</a></li>
+							</ul>
+							<div class="tab-content">
+								<div class="tab-pane active" id="tab1">
+									<h4><span class="glyphicon glyphicon-map-marker"></span> Our Location</h4>
+									
+									<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.7339684630065!2d76.55310896256171!3d27.60020382311669!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397298d1501f6019%3A0xe1cc86501dab2f6b!2sThe+Dadhikar+Fort!5e0!3m2!1sen!2sin!4v1556552418064!5m2!1sen!2sin"></iframe>
+									
+									<p>The Dadhkar Fort, Almost 1100 year ago, around 9-10 century, a residential camp was made in the dense forests amidst the Aravali Hills in Matsya Janpad area by a deserted family of King Chand who had to leave his capital named Abhanagari ( the place of grace), now known as Abhaneri after having lost everything in flood there. The word ‘Dera’ denotes camp and thus, place was called as ‘Derakar’ i.e to make a camp. Gradually with the passage of time the name changed and now it is known as Dadhkar, Alwar.</p>
+									
+								</div><!-- end tab-pane -->
+								
+								<div class="tab-pane" id="tab2">
+									<h4>Your Views <small> any comment</small></h4>
+									
+									<p>While being at the Dadhikar Fort, you would definitely go centuries back and see how the Indian Culture and Traditions have gradually changed. Despite this, you would find all the modern amenities here maintained in the ancient style. The rooms, the dining hall and even the business center in this hotel are designed according to traditional Rajasthan architecture which just gives this hotel extra charm and attraction.</p>
+									
+									<p>While being at the Dadhikar Fort, you would definitely go centuries back and see how the Indian Culture and Traditions have gradually changed. Despite this, you would find all the modern amenities here maintained in the ancient style. The rooms, the dining hall and even the business center in this hotel are designed according to traditional Rajasthan architecture which just gives this hotel extra charm and attraction.</p>
+									
+									<hr>
+									
+									<a href="#myModal" role="button" class="btn btn-warning" data-toggle="modal"><span class="glyphicon glyphicon-hand-up"></span> Click for comment</a>
+									
+									<div class="modal fade" id="myModal">
+										<div class="modal-dialog">
+											<div class="modal-content">
+												<div class="modal-header">
+													<button class="close" data-dismiss="modal">&times;</button>
+													
+													<h4 class="modal-title">Comment Window</h4>
+												</div><!-- end modal-header -->
+												<div class="modal-body">
+																								
+													<form class="form-horizontal">
+														<div class="form-group">
+															<label class="col-lg-2 control-label" for="inputName">Name</label>
+															<div class="col-lg-10">
+																<input class="form-control" id="inputName" placeholder="Name" type="text">
+															</div>
+														</div>
+														
+														<div class="form-group">
+															<label class="col-lg-2 control-label" for="inputEmail">Email</label>
+															<div class="col-lg-10">
+																<input class="form-control" id="inputEmail" placeholder="Email" type="email">
+															</div>
+														</div>
+														
+														<div class="form-group">
+															<label class="col-lg-2 control-label" for="inputMessage">Comment</label>
+															<div class="col-lg-10">
+																<textarea class="form-control" id="inputMessage" placeholder="Comment" rows="3"></textarea>
+																<button class="btn btn-success pull-right" type="submit">Send!</button>
+															</div>
+														</div>
+													</form>
+												</div><!-- end modal-body -->
+												
+												<div class="modal-footer">
+													<button class="btn btn-default" data-dismiss="modal" type="button">Close</button> <button class="btn btn-primary" type="button">Save changes</button>
+												</div><!-- end modal-footer -->
+											</div><!-- end modal-content -->
+										</div><!-- end modal-dialog -->
+									</div><!-- end myModal -->
+									
+								</div><!-- end tab-pane -->
+							</div><!-- end tab-content -->
+						</div><!-- end tabbable -->
+					</div><!-- end col-sm-6 -->
+					
+					<div class="col-sm-6">
+						<h3>More About Dadhkar</h3>
+						<p>The famous heritage hotel in Alwar - Rajasthan India, The Dadhikar Fort is one of the most stunning heritage properties that truly reflect the authentic forms of Indian Culture and Arts. Surrounded by Aravalli hills on all sides and lush green forests nearby, this hotel is a complete paradise for nature lovers. All the basic requirements of tourists are fulfilled with a stay in here. The rooms, the dining hall and even the business center in this hotel are designed according to traditional Rajasthan architecture which just gives this hotel extra charm and attraction. A stay in this hotel makes one's tour to Alwar simply unforgettable.</p>
+						
+						<h4>Its Indian heritage</h4>
+						<p>We at Dadhikar hotel aim to celebrate your auspicious and special occassion, giving you the best luxurious experience with the most special memories. Dadhikar Fort is known for keeping alive the great heritage, tradition and royal culture with utmost hospitality. It was electrifying to listen as the hills pulsated with the strains of Folk and Classical music of those invisible singers.</p>
+
+						<h4>Fine Dinning</h4>
+						<p>The dining experience is pure delight at the hotel’s on-site multi-cuisine restaurant Akshyabatloi which specializes in Indian, continental and Rajasthani delicacies that are served in buffet style. The guests enjoy the exotic picturesque sights of the majestic Aravalli hills from this rooftop restaurant. Along with the folk music and folk dance performances in the evening in here, the views come more alive than ever and so does the delicious food.</p>
+					</div><!-- end col-sm-6 -->
+				</div><!-- end moreInfo -->
+				
+			
+			<footer>
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-2">
+						<h6>Copyright &copy;</h6>
+						</div><!-- end col-sm-2 -->
+						
+						<div class="col-sm-4">
+							<h6>About Us</h6>
+							<p>The Dadhikar Fort, a beautiful combination of beauty of nature, graceful history of thousand years and the reflection of ancient Indian Art and Culture.</p>
+						</div><!-- end col-sm-4 -->
+						
+						<div class="col-sm-2">
+							<h6>Navigation</h6>
+							<ul class="unstyled">
+								<li><a href="#">Home</a></li>
+								<li><a href="#">Services</a></li>
+								<li><a href="#">Links</a></li>
+								<li><a href="#">Contact</a></li>
+							</ul>
+						</div><!-- end col-sm-2 -->
+						
+						<div class="col-sm-2">
+							<h6>Follow Us</h6>
+							<ul class="unstyled">
+								<li><a href="#"><i class="fab fa-twitter"></i> Twitter</a></li>
+								<li><a href="#"><i class="fab fa-facebook-square"></i> Facebook</a></li>
+								<li><a href="#"><i class="fab fa-instagram"></i> Instagram</a></li>
+							</ul>
+						</div><!-- end col-sm-2 -->
+						
+						<div class="col-sm-2">
+							<h6>Designed by Prerna Chauhan</h6>
+						</div><!-- end col-sm-2 -->
+					</div><!-- end row -->
+				</div><!-- end container -->
+			</footer>
+			<!-- All Javascript at the bottom of the page for faster page loading -->
+				
+			<!-- First try for the online version of jQuery-->
+			<script src="http://code.jquery.com/jquery.js"></script>
+			
+			<!-- If no online access, fallback to our hardcoded version of jQuery -->
+			<script>window.jQuery || document.write('<script src="includes/js/jquery-1.8.2.min.js"><\/script>')</script>
+			
+			<!-- Bootstrap JS -->
+			<script src="bootstrap/js/bootstrap.min.js"></script>
+			
+			<!-- Custom JS -->
+			<script src="includes/js/script.js"></script>
+		</div><!--end main-->	
+	</body>
+</html>
+

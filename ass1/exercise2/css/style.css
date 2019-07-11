@@ -1,0 +1,170 @@
+.hdr h1                                      /*header*/        
+{
+	font-size: 44px;
+	font-family: 'Great Vibes', cursive;
+	letter-spacing: 0.3em;
+	text-shadow: 3px 3px 3px blue;
+
+}
+
+.hdr img
+{
+	height: 90px;
+	width: 90px;
+	float: left;
+}
+
+.hdr
+{
+	position: fixed;
+	background-color: lightgrey;
+	width: 100%;
+}
+
+
+.right                                     /*navigation*/
+{
+	float:right;
+}
+
+.right ul li
+{
+   display: inline;
+   margin-left: 10px;
+
+}
+
+.right a
+{
+	text-decoration: none;
+}
+
+.right a:hover
+{
+	color: black;
+	font-weight: bold;
+}
+
+
+.main                                        /*main comtainer*/
+{
+	padding-top: 100px;
+}
+
+
+.herounit img								/*hero unit*/
+{
+	height: 350px;
+	width: 930px;
+	margin-left: 5px;
+}
+
+.herounit h4
+{
+	font-family: monospace;
+	margin-left: 5px;
+}
+
+.herounit p
+{
+	margin-top: 10px;
+	background-color: #b3f0ff;
+	font-family: sans-serif;
+}
+
+
+.vertical									/*vertical column*/
+{
+	margin-top: 30px;
+	background-color: #ffccff;
+	height: 645px;
+}
+
+.vertical h4
+{
+	font-family: monospace;
+}
+ 
+.vertical p
+{
+	padding: 10px 0 8px 0;
+} 
+
+.vertical ul li
+{ 
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+
+.rcol										/*right vertical column*/
+{
+	background-color: #ffccff;
+	margin-top: 30px;
+}
+
+.r1 img
+{
+
+	margin-left: 55px;
+	height: 150px;
+	width: 350px;
+}
+ .r1 p
+ {
+ 	margin-left: 8px;
+ }
+
+.r2 img
+{
+	margin-left: 55px;
+	height: 150px;
+	width: 350px;
+}
+.r2 p
+ {
+ 	margin-left: 8px;
+ }
+
+.r3 img
+{
+	margin-left: 55px;
+	height: 150px;
+	width: 350px;
+}
+.r3 p
+ {
+ 	margin-left: 8px;
+ }
+
+
+.foot										/*footer*/
+{
+	
+	text-align:center;
+	width:30px;
+}
+
+.foot a
+{
+	text-decoration: none;
+}
+
+.foot a:hover
+{
+	color: white;
+	font-weight: bold;
+}
+
+.f
+{
+	margin-top: 20px;
+	background-color: grey;
+}
+
+.s
+{
+	display: inline;
+	padding: 0 10px;
+	font-size: 50px;
+}

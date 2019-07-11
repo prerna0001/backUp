@@ -1,0 +1,14 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1>
+    Welcome to {{ title }}! <!--gets replaced by app.comp.ts title-->
+  </h1>
+  <button (click)= "myFirstMethod()">Click me</button>
+  <input [(ngModel)]="title"> <!--ng binding -two way binding-->
+  <app-test>
+    <h2>its inside app-test selector in app.component.html</h2>
+    <h2>{{message}}</h2>
+  </app-test>
+  <app-test (childEvent)="message = $event" [parentData]="nameP"></app-test>
+</div> 
+

@@ -1,0 +1,1089 @@
+prerna@ibm-wave5:~$ history
+ 989  ng serve 
+  990  npm install @auth0/angular-jwt
+  991  ng serve 
+  992  mysql -u root -p
+  993  sudo service mysql status
+  994  mysql -h 127.0.0.1 root
+  995  sudo docker ps
+  996  sudo docker exec -it 177 bash
+  997  ng new login
+  998  ls
+  999  cd login
+ 1000  ng serve -o
+ 1001  git clone -b v1.0.1 https://github.com/stackroute/ibm-wave5-I2PS.git
+ 1002  git status
+ 1003  git add .
+ 1004  git commit -m "login front end page chnaged"
+ 1005  git push origin v1.0.1
+ 1006  git pull origin v1.0.1
+ 1007  ng serve
+ 1008  npm install
+ 1009  ng serve
+ 1010  ng serve\
+ 1011  ng serve
+ 1012  ng serve -o
+ 1013  git status
+ 1014  git add .
+ 1015  git commit -m "login front end page chnaged"
+ 1016  git push origin v1.0.1
+ 1017  git status
+ 1018  git status
+ 1019  git add .
+ 1020  git commit -m "userName chaned to emailId in user-login-service"
+ 1021  git push origin v1.0.1
+ 1022  git clone -b v1.0.1 https://github.com/stackroute/ibm-wave5-I2PS.git
+ 1023  sudo docker ps
+ 1024  mvn clean package
+ 1025  mvn clean package -DskipTests
+ 1026  cd user-login-service/
+ 1027  mvn clean package -DskipTests
+ 1028  cd .
+ 1029  cd ..
+ 1030  mvn clean package -DskipTests
+ 1031  ls
+ 1032  cd service-provider-profile-service/
+ 1033  mvn clean package -DskipTestsd
+ 1034  cd ..
+ 1035  cd user-login-service/
+ 1036  mvn clean package -DskipTestsd
+ 1037  npm i
+ 1038  ng serve
+ 1039  npm i
+ 1040  ng serve
+ 1041  npm install @auth0/angular-jwt
+ 1042  ng serve
+ 1043  sudo docker ps -a
+ 1044  sudo docker exec -it 177 bash
+ 1045  sudo service mongod status
+ 1046  sudo service mongod start
+ 1047  sudo systemctl stop rabbitmq-server.service 
+ 1048  sudo systemctl start rabbitmq-server.service 
+ 1049  sudo systemctl status rabbitmq-server.service 
+ 1050  sudo docker ps
+ 1051  sudo docker stop 4e8
+ 1052  sudo docker ps
+ 1053  sudo systemctl start rabbitmq-server.service 
+ 1054  sudo systemctl status rabbitmq-server.service 
+ 1055  history
+ 1056  sudo docker-compose down
+ 1057  sudo docker ps
+ 1058  sudo service mysql status
+ 1059  sudo service mysql stop
+ 1060  sudo systemctl status rabbitmq-server.service 
+ 1061  sudo docker ps
+ 1062  sudo docker exec -it 177 bash
+ 1063  sudo docker ps
+ 1064  sudo docker logs 177
+ 1065  sudo docker ps
+ 1066  sudo docker ps -a
+ 1067  sudo service mysql status
+ 1068  sudo service mysql start
+ 1069  mysql -u root -p
+ 1070  git clone -b v1.0.1 https://github.com/stackroute/ibm-wave5-I2PS.git
+ 1071  sudo service mysql status
+ 1072  sudo service mysql stop
+ 1073  sudo service mysql status
+
+ 1073  sudo service mysql stop
+ 1074  sudo service mysql status
+ 1075  sudo systemctl status rabbitmq-server.service 
+ 1076  sudo systemctl stop rabbitmq-server.service 
+ 1077  sudo systemctl status rabbitmq-server.service 
+ 1078  sudo service mongod status
+ 1079  sudo docker ps
+ 1080  sudo docker exec -it 30e bash
+ 1081  sudo docker ps
+ 1082  ng serve
+ 1083  history
+ 1084  git status
+ 1085  git add .
+ 1086  git commit -m "routing on the basis of user role done"
+ 1087  git status
+ 1088  git add .
+ 1089  git status
+ 1090  git add .
+ 1091  git commit -m "routing on the basis of user role done"
+ 1092  git add .
+ 1093  git status
+ 1094  git add . 
+ 1095  git commit -m "routing on the basis of user role done, data folder deleted"
+ 1096  git push origin v1.0.1
+ 1097  sudo su
+ 1098  git clone -b v1.0.0 https://github.com/stackroute/ibm-wave3-quizify-hackathon.git
+ 1099  git status
+ 1100  git add .
+ 1101  git commit -m "user-login-service test cases added"
+ 1102  git push origin v1.0.1
+ 1103  git clone -b v1.0.1 https://github.com/stackroute/ibm-wave3-quizify-hackathon.git
+ 1104  git status
+ 1105  sudo systemctl status rabbitmq-server.service 
+ 1106  sudo service mysql status
+ 1107  netstat -tulpn
+ 1108  sudo kill -9 $(sudo lsof -t -i:8088)
+ 1109  netstat -tulpn
+ 1110  sudo docker ps
+ 1111  sudo docker exec -it 1ff bash
+ 1112  npm i
+ 1113  npm install @auth0/angular-jwt
+ 1114  ng serve
+ 1115  mvn clean package -DskipTests
+ 1116  sudo docker-compose up 
+ 1117  sudo docker-compose up --build
+ 1118  sudo docker ps 
+ 1119  history
+ 1120  git clone -b v1.0.1 https://github.com/stackroute/ibm-wave5-I2PS.git
+ 1121  free -m
+ 1122  git clone -b v1.0.2 https://github.com/stackroute/ibm-wave5-I2PS.git
+ 1123  git clone -b v1.0.2 https://github.com/stackroute/ibm-wave5-I2PS.git
+ 1124  git clone -b v1.0.2 https://github.com/stackroute/ibm-wave5-I2PS.git
+ 1125  git status
+ 1126  git add .
+ 1127  git commit -m "intelligent-service microservice added"
+ 1128  git push origin v1.0.2
+ 1129  git clone -b v1.0.2
+ 1130  git clone -b v1.0.2 https://github.com/stackroute/ibm-wave5-I2PS.git
+ 1131  mvn clean package
+ 1132  sudo service mysql status
+ 1133  sudo service mysql stop
+ 1134  sudo service mysql status
+ 1135  git status
+ 1136  git add .
+ 1137  git commit -m "sonarqube image puuled & plugin added to parent pom"
+ 1138  git push origin v1.0.2
+ 1139  git status
+ 1140  git push origin v1.0.2
+ 1141  git pull origin v1.0.2
+ 1142  git add .
+ 1143  git commit -m "intelligent-service added to docker-compose"
+ 1144  git push origin v1.0.2
+ 1145  git status
+ 1146  git add .
+ 1147  git commit -m "intelligent service added to docker-compose"
+ 1148  git push origin v1.0.2
+ 1149  git pull origin v1.0.2
+ 1150  sudo systemctl status rabbitmq-server.service 
+ 1151  sudo systemctl stop rabbitmq-server.service 
+ 1152  sudo systemctl status rabbitmq-server.service 
+ 1153  git status
+ 1154  git add .
+ 1155  git commit -m "intelligent-service dockerised"
+ 1156  git push origin v1.0.2
+ 1157  git status
+ 1158  git add .
+ 1159  git commit -m "intelligent service added to parent pom"
+ 1160  git push origin v1.0.2
+ 1161  git status
+ 1162  git add .
+ 1163  git commit -m "intelligent-service microservice added"
+ 1164  git push origin v1.0.2
+ 1165  sudo service mongod start
+ 1166  sudo service mongod status
+ 1167  mongo
+ 1168  sudo service mongod status
+ 1169  sudo service mongod stop
+ 1170  sudo service mongod status
+ 1171  sudo service mysql status
+ 1172  sudo systemctl status rabbitmq-server.service 
+ 1173  sudo docker ps
+ 1174  sudo systemctl mysql status
+ 1175  sudo systemctl status mysql
+ 1176  sudo systemctl stop mysql
+ 1177  sudo systemctl status rabbitmq-server.service 
+ 1178  sudo systemctl stop rabbitmq-server.service 
+ 1179  sudo systemctl status rabbitmq-server.service 
+ 1180  sudo docker ps -a
+ 1181  sudo docker stop f29d0c72e950
+ 1182  sudo docker rm f29d0c72e950
+ 1183  sudo docker ps -a
+ 1184  sudo docker pull sonarqube
+ 1185  sudo docker ps
+ 1186  sudo docker ps -a
+ 1187  sudo docker images
+ 1188  sudo docker run -p 9000:9000 sonarqube
+ 1189  sudo docker-compose down
+ 1190  sudo docker-compose up --build -d config-service
+ 1191  sudo docker-compose up --build -d --no-recreate
+ 1192  sudo docker-compose down
+ 1193  sudo docker-compose up --build -d config-service mysql
+ 1194  mvn clean package
+ 1195  sudo docker-compose up --build -d --no-recreate
+ 1196  sudo docker-compose down
+ 1197  sudo docker-compose up --build -d config-service mysql mongo
+ 1198  sudo docker-compose down
+ 1199  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1200  sudo docker-compose down
+ 1201  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1202  sudo docker-compose up --build -d --no-recreate
+ 1203  sudo docker-compose down
+ 1204  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1205  mvn clean package
+ 1206  sudo docker-compose up --build -d --no-recreate
+ 1207  sudo docker ps
+ 1208  sudo docker-compose down
+ 1209  sudo docker ps
+ 1210  sudo docker stop 9f7
+ 1211  sudo docker ps
+ 1212  mvn clean package
+ 1213  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1214  mvn clean package
+ 1215  sudo docker-compose up --build -d --no-recreate
+ 1216  sudo docker ps
+ 1217  sudo docker down
+ 1218  sudo docker-compose down
+ 1219  sudo docker ps
+ 1220  sudo docker images
+ 1221  sudo docker system prune -a
+ 1222  sudo docker ps
+ 1223  sudo docker images
+ 1224  sudo 
+ 1225  sudo docker system prune -a
+ 1226  sudo docker images
+ 1227  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1228  git status
+ 1229  sudo chmod 777 -R data
+ 1230  git status
+ 1231  git add .
+ 1232  git status
+ 1233  git add data/
+ 1234  git status
+ 1235  git add .
+ 1236  sudo systemctl status rabbitmq-server
+ 1237  sudo systemctl stop rabbitmq-server
+ 1238  ls
+ 1239  cd ibm-wave5-I2PS
+ 1240  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1241  sudo docker-compose up --build -d --no-recreate
+ 1242  sudo docker images
+ 1243  sudo docker ps
+ 1244  mvn clean package
+ 1245  git status
+ 1246  ls
+ 1247  cd data
+ 1248  sudo chmod 777 -R data
+ 1249  ls
+ 1250  ng serve
+ 1251  ng g s profileanddashboard
+ 1252  ng serve
+ 1253  sudo service mysql status
+ 1254  sudo service mysql stop
+ 1255  sudo service mysql status
+ 1256  sudo service mongod status
+ 1257  sudo service rabbitmq-server status
+ 1258  sudo service rabbitmq-server stop
+ 1259  ng serve
+ 1260  git status
+ 1261  git add .
+ 1262  git commit -m "intelligent-service now consumes from service-provider-profile-service only"
+ 1263  git push origin v1.0.2
+ 1264  git pull origin v1.0.2
+ 1265  sudo service mysql status
+ 1266  sudo service mysql stop
+ 1267  sudo service mongo status
+ 1268  sudo service mongod status
+ 1269  sudo systemctl stop rabbitmq-server
+ 1270  sudo systemctl status rabbitmq-server
+ 1271  git status
+ 1272  git add .
+ 1273  git commit -m "intelligent-service now consumes from service-provider-profile-service only"
+ 1274  git push origin v1.0.2
+ 1275  sudo docker ps
+ 1276  sudo docker stop 429 621 463 e9e 723 8f1 15d 1ab
+ 1277  sudo docker ps
+ 1278  sudo docker images
+ 1279  sudo docker system prune -a~
+ 1280  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1281  mvn clean package
+ 1282  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1283  mvn clean package
+ 1284  cd login
+ 1285  ls
+ 1286  cd user-login-service/
+ 1287  mvn clean package
+ 1288  sudo docker ps
+ 1289  cd ..
+ 1290  sudo docker-compose up --build -d --no-recreate
+ 1291  sudo docker ps
+ 1292  mvn clean package
+ 1293  ng serve
+ 1294  sudo service mysql status
+ 1295  sudo service mysql stop
+ 1296  sudo service mysql status
+ 1297  sudo service mongod status
+ 1298  sudo systemctl status rabbitmq-server
+ 1299  sudo systemctl stop rabbitmq-server
+ 1300  sudo systemctl status rabbitmq-server
+ 1301  git status
+ 1302  sudo chmod 777 -R /data
+ 1303  sudo chmod 777 -R data
+ 1304  git status
+ 1305  git add .
+ 1306  git commit -m "listner added to intelligent-service"
+ 1307  git push origin v1.0.2
+ 1308  git pull origin v1.0.2
+ 1309  git status
+ 1310  git add .
+ 1311  git commit -m "listner added to intelligent-service"
+ 1312  git push origin v1.0.2
+ 1313  sudo docker ps
+ 1314  sudo docker exec -it 6fa bash
+ 1315  git pull origin v1.0.2
+ 1316  git status
+ 1317  git add .
+ 1318  git status
+ 1319  git add .
+ 1320  git commit -m "intelligent-service domain class modified"
+ 1321  git push origin v1.0.2
+ 1322  sudo docker ps
+ 1323  sudo docker logs 6fad8d8058dc
+ 1324  sudo docker-compose down~
+ 1325  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1326  cd intelligent-service/
+ 1327  mvn clean package
+ 1328  cd ..
+ 1329  cd service-provider-profile-service/
+ 1330  mvn clean package
+ 1331  mvn clean package -DskipTests
+ 1332  mvn clean package
+ 1333  mvn clean package -DskipTests
+ 1334  mvn clean package
+ 1335  mvn clean package -DskipTests
+ 1336  cd ..
+ 1337  sudo docker ps
+ 1338  sudo docker logs 950
+ 1339  sudo docker ps
+ 1340  sudo docker system prune -a~
+ 1341  sudo docker system prune -a
+ 1342  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1343  mvn clean package
+ 1344  sudo docker-compose up --build -d --no-recreate
+ 1345  mvn clean package
+ 1346  mvn clean package -DskipTests
+ 1347  mvn clean package
+ 1348  sudo docker ps 
+ 1349  cd intelligent-service/
+ 1350  mvn clean package
+ 1351  cd ..
+ 1352  ls
+ 1353  cd service-provider-profile-service/
+ 1354  mvn clean package
+ 1355  cd ..
+ 1356  ls intelligent-service/
+ 1357  cd intelligent-service/
+ 1358  mvn clean package
+ 1359  cd ..
+ 1360  cd service-provider-profile-service/
+ 1361  mvn clean package
+ 1362  cd ..
+ 1363  cd in
+ 1364  cd intelligent-service/
+ 1365  mvn clean package
+ 1366  sudo docker ps
+ 1367  sudo docker exec -it 950 bash
+ 1368  sudo docker ps
+ 1369  sudo docker exec -it 6fa bash
+ 1370  $ docker exec -it some-mongo bash
+ 1371  $ docker exec -it mongo bash
+ 1372  sudo docker exec -it mongo bash
+ 1373  sudo docker exec -it 6fa bash
+ 1374  momgo
+ 1375  mongo
+ 1376  sudo systemctl status rabbitmq-server
+ 1377  sudo service mongod status
+ 1378  sudo service mysql status
+ 1379  sudo service mysql stop
+ 1380  sudo service mongod stop
+ 1381  sudo systemctl status rabbitmq-server
+ 1382  sudo service mongod status
+ 1383  sudo service mysql status
+ 1384  sudo docker ps
+ 1385  sudo docker system prune -a
+ 1386  sudo chmod 777 -R data
+ 1387  git pull origin v1.0.2
+ 1388  git status
+ 1389  git add .
+ 1390  git commit -m "intelligent-service working"
+ 1391  git push origin v1.0.2
+ 1392  git pull origin v1.0.2
+ 1393  git status
+ 1394  git add .
+ 1395  git commit -m "intelligent-service working"
+ 1396  git push origin v1.0.2
+ 1397  sudo chmod 777 -R data
+ 1398  git status
+ 1399  git pull origin v1.0.2
+ 1400  git add .
+ 1401  git commit -m "getByEmailId method added to service-provider"
+ 1402  git push origin v1.0.2
+ 1403  git pull origin v1.0.2
+ 1404  git push origin v1.0.2
+ 1405  git status
+ 1406  git add .
+ 1407  git commit -m "getByEmailId added to service-provider microservice"
+ 1408  git push origin v1.0.2
+ 1409  sudo docker ps
+ 1410  sudo service mysql status
+ 1411  sudo service mysql stop
+ 1412  sudo service mongo stop
+ 1413  sudo service mongod stop
+ 1414  sudo service mongod status
+ 1415  sudo systemctl status rabbitmq-server
+ 1416  sudo systemctl stop rabbitmq-server
+ 1417  sudo systemctl status rabbitmq-server
+ 1418  sudo docker ps
+ 1419  mvn clean package -DskipTests
+ 1420  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1421  cd service-provider-profile-service/
+ 1422  mvn clean package
+ 1423  mvn clean package -DskipTests
+ 1424  cd ..
+ 1425  cd innovator-profile-service/
+ 1426  mvn clean package
+ 1427  cd ..
+ 1428  sudo docker ps
+ 1429  sudo service mysql status
+ 1430  sudo service mongod status
+ 1431  sudo systemctl rabbitmq status
+ 1432  sudo systemctl rabbit status
+ 1433  history
+ 1434  cd ..
+ 1435  sudo docker ps
+ 1436  systemctl start docker
+ 1437  sudo systemctl start docker
+ 1438  ls
+ 1439  sudo docker ps -a
+ 1440  docker -v
+ 1441  sudo systemctl start docker
+ 1442  sudo docker-compose up
+ 1443  docker-machine start default
+ 1444  docker-machine start ls
+ 1445  docker-machine ls
+ 1446  docker-machine start docker
+ 1447  git status
+ 1448  git add .
+ 1449  git commit -m "comments added to intelligent-service"
+ 1450  git push origin v1.0.2
+ 1451  git status
+ 1452  git add .
+ 1453  git commit -m "getByEmailId added to innovator-profile and working for both innovator and service-provider"
+ 1454  git push origin v1.0.2
+ 1455  git pull origin v1.0.2
+ 1456  git push origin v1.0.2
+ 1457  git status
+ 1458  git add .
+ 1459  git commit -m "getByEmailId added to innovator-profile and working for both innovator and service-provider"
+ 1460  git push origin v1.0.2
+ 1461  sudo docker ps
+ 1462  git status
+ 1463  git add .
+ 1464  git commit -m "exception added for innovator-profile"
+ 1465  git push origin v1.0.2
+ 1466  git status
+ 1467  git add .
+ 1468  git commit -m "exception handling done for intelligent-service"
+ 1469  git push origin v1.0.2
+ 1470  git status
+ 1471  git add .
+ 1472  git commit -m "exception handeling done for service-provider"
+ 1473  git push origin v1.0.2
+ 1474  git pull origin v1.0.2
+ 1475  git add .
+ 1476  git commit -m "exception handeling done for service-provider"
+ 1477  git push origin v1.0.2
+ 1478  sudo service mysql status
+ 1479  sudo service mysql stop
+ 1480  sudo service mysql status
+ 1481  sudo service mongo status
+ 1482  sudo service mongod status
+ 1483  sudo systemctl rabbit-server status
+ 1484  history
+ 1485  sudo systemctl status rabbitmq-server
+ 1486  sudo systemctl stop rabbitmq-server
+ 1487  sudo systemctl status rabbitmq-server
+ 1488  sudo systemctl start rabbitmq-server
+ 1489  sudo systemctl status rabbitmq-server
+ 1490  sudo service mysql start
+ 1491  sudo service mysql status
+ 1492  sudo service mongod start
+ 1493  sudo service mongod status
+ 1494  sudo service mongod stop
+ 1495  sudo service mongod status
+ 1496  sudo service mysql status
+ 1497  sudo service mysql stop
+ 1498  sudo service mysql status
+ 1499  sudo systemctl status rabbitmq-server
+ 1500  sudo systemctl stop rabbitmq-server
+ 1501  sudo systemctl status rabbitmq-server
+ 1502  sudo systemctl start rabbitmq-server
+ 1503  sudo systemctl status rabbitmq-server
+ 1504  sudo service mysql start
+ 1505  sudo service mongod start
+ 1506  sudo docker ps
+ 1507  sudo apt-get update
+ 1508  sudo apt-get remove docker docker-engine docker.io
+ 1509  sudo apt install docker.io
+ 1510  sudo systemctl start docker
+ 1511  sudo systemctl enable docker
+ 1512  sudo docker ps
+ 1513  sudo docker -v
+ 1514  sudo docker-compose -v
+ 1515  sudo docker ps
+ 1516  sudo docker service status 
+ 1517  sudo service docker status 
+ 1518  pgrep -f docker > /dev/null || echo "starting docker"
+ 1519  sudo docker ps 
+ 1520  sudo systemctl start docker
+ 1521  sudo service docker start
+ 1522  sudo service mysql stop
+ 1523  sudo service mongod stop
+ 1524  sudo systemctl status rabbitmq-server
+ 1525  sudo systemctl stop rabbitmq-server
+ 1526  sudo systemctl status rabbitmq-server
+ 1527  sudo service mongod status
+ 1528  sudo service mysql status
+ 1529  sudo su
+ 1530  git clone v1.0.2 /home/prerna/Documents/stack route/OurProject/ibm-wave5-I2PS
+ 1531  git clone -b v1.0.2 /home/prerna/Documents/stack route/OurProject/ibm-wave5-I2PS
+ 1532  git clone -b v1.0.2 https://github.com/stackroute/ibm-wave5-I2PS.git
+ 1533  sudo docker ps 
+ 1534  sudo docker-compose down
+ 1535  mvn clean package
+ 1536  mvn clean package -DskipTests
+ 1537  mvn clean package
+ 1538  mvn clean package DskipTests
+ 1539  mvn clean package -DskipTests
+ 1540  sudo docker-compose up --build -d --no-recreate
+ 1541  sudo docker ps
+ 1542  sudo docker logs 7db
+ 1543  sudo docker ps
+ 1544  sudo docker logs 89b
+ 1545  sudo docker ps
+ 1546  sudo docker logs 7bd
+ 1547  sudo docker logs 7db
+ 1548  npm install
+ 1549  ng serve
+ 1550  npm install
+ 1551  ng serve
+ 1552  sudo service mysql stop
+ 1553  sudo service mysql status
+ 1554  sudo service mongod status
+ 1555  sudo systemctl status rabbitmq-server
+ 1556  sudo systemctl stop rabbitmq-server
+ 1557  sudo systemctl status rabbitmq-server
+ 1558  npm i
+ 1559  sudo docker ps
+ 1560  sudo docker system prune -a
+ 1561  sudo docker images
+ 1562  sudo docker system prune -a
+ 1563  sudo docker ps
+ 1564  sudo docker stop fb2 836 51e7db 89b 0f9 b97 5f0
+ 1565  sudo docker rm fb2 836 51e7db 89b 0f9 b97 5f0
+ 1566  sudo docker ps
+ 1567  sudo docker-compose down
+ 1568  sudo docker ps
+ 1569  sudo docker system prune -a
+ 1570  sudo docker ps
+ 1571  sudo docker system prune -a
+ 1572  sudo docker ps
+ 1573  sudo docker system prune -a
+ 1574  sudo docker stop 836 89b 5f0
+ 1575  sudo docker rm 836 89b 5f0
+ 1576  sudo docker ps
+ 1577  sudo docker images
+ 1578  sudo docker ps
+ 1579  sudo docker system prune -a
+ 1580  sudo docker rm 836 89b 5f0
+ 1581  sudo docker stop 836 89b 5f0
+ 1582  mvn clean
+ 1583  sudo docker ps
+ 1584  sudo docker stop 836 89b 5f0
+ 1585  sudo docker kill 836 89b 5f0
+ 1586  sudo docker stop 836 89b 5f0
+ 1587  sudo docker rm 836 89b 5f0
+ 1588  sudo docker ps
+ 1589  sudo docker system prune -a
+ 1590  Restart Docker: $ sudo systemctl restart docker
+ 1591  sudo systemctl restart docker
+ 1592  sudo docker ps
+ 1593  sudo docker system prune -a
+ 1594  sudo docker rm 836 89b 5f0
+ 1595  sudo service mysql status
+ 1596  sudo service mysql stop
+ 1597  sudo service mongo status
+ 1598  sudo service mongod status
+ 1599  sudo systemctl status rabbitmq-server
+ 1600  sudo systemctl stop rabbitmq-server
+ 1601  sudo systemctl status rabbitmq-server
+ 1602  ng serve
+ 1603  npm i
+ 1604  ng serve
+ 1605  sudo npm i
+ 1606  ng serve
+ 1607  mvn clean package
+ 1608  sudo docker ps
+ 1609  sudo docker system prune -a
+ 1610  sudo docker ps
+ 1611  sudo docker system prune -a
+ 1612  sudo docker ps
+ 1613  sudo docker stop 49f 8e7 f60 221 83a 1e3 23c 966
+ 1614  sudo docker ps
+ 1615  sudo docker images
+ 1616  sudo docker system prune -a
+ 1617  sudo docker images
+ 1618  sudo docker ps
+ 1619  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1620  mvn clean package
+ 1621  mvn clean package -DskipTests
+ 1622  sudo docker-compose up --build -d --no-recreate
+ 1623  cd idea-hub-service/
+ 1624  cd ..
+ 1625  mvn clean package
+ 1626  cd service-provider-profile-service/
+ 1627  mvn clean package
+ 1628  sudo docker ps
+ 1629  cd ..
+ 1630  sudo docker ps
+ 1631  sudo docker logs
+ 1632  sudo docker logs 81a90bf88cc2
+ 1633  sudo docker-compose down
+ 1634  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1635  sudo docker ps
+ 1636  cd innovator-profile-service/
+ 1637  mvn clean package
+ 1638  cd ..
+ 1639  cd innovator-profile-service/
+ 1640  mvn clean package
+ 1641  cd ..
+ 1642  sudo mpm i
+ 1643  sudo npm i
+ 1644  ng serve
+ 1645  netstat -tulpn
+ 1646  sudo kill -9 $(sudo lsof -t -i:8094)
+ 1647  sudo netstat -plten|grep 8094
+ 1648  sudo kill -9 69032
+ 1649  sudo kill -9 3463
+ 1650  sudo netstat -plten|grep 8094
+ 1651  sudo netstat -plten|grep java
+ 1652  sudo kill -9 81a90bf88cc2
+ 1653  sudo kill -9 65780
+ 1654  sudo kill -9 3475
+ 1655  sudo du
+ 1656  sudo su
+ 1657  sudo docker ps
+ 1658  sudo docker-compose down
+ 1659  sudo docker ps
+ 1660  sudo docker images
+ 1661  sudo docker system prune -a
+ 1662  sudo docker images
+ 1663  sudo service mongod status
+ 1664  sudo service mysql status
+ 1665  sudo service mysql stop
+ 1666  sudo systemctl status rabbitmq-server
+ 1667  sudo systemctl stop rabbitmq-server
+ 1668  sudo systemctl status rabbitmq-server
+ 1669  sudo docker images
+ 1670  sudo docker ps
+ 1671  sudo docker exec -it cca bash
+ 1672  sudo docker ps
+ 1673  mvn clean package
+ 1674  cd user-login-service/
+ 1675  mvn clean package
+ 1676  mvn clean package -DskipTests
+ 1677  cd ..
+ 1678  mvn clean package -DskipTests
+ 1679  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1680  sudo docker ps
+ 1681  sudo docker-compose up --build -d innovator-profile-service
+ 1682  sudo docker ps
+ 1683  sudo docker logs afd
+ 1684  sudo docker ps
+ 1685  sudo docker sstop afd
+ 1686  sudo docker stop afd
+ 1687  sudo docker ps
+ 1688  cd innovator-profile-service/
+ 1689  mvn clean package
+ 1690  cd ..
+ 1691  cd innovator-profile-service/
+ 1692  mvn clean package
+ 1693  cd ..
+ 1694  sudo docker-compose down
+ 1695  sudo docker-compose up --build -d mysql mongo rabbitmq
+ 1696  sudo docker-compose down
+ 1697  sudo docker ps
+ 1698  sudo kill -9 8094
+ 1699  sudo kill -9 $(sudo lsof -t -i:8094)
+ 1700  sudo docker ps
+ 1701  sudo netstat -plten|grep java
+ 1702  sudo ps aux|grep 8888
+ 1703  sudo kill -9 1146660
+ 1704  sudo kill -9 5424
+ 1705  sudo ps aux|grep 8888
+ 1706  sudo ps aux|grep 8094
+ 1707  sudo kill -9 5186
+ 1708  sudo kill -9 21536
+ 1709  sudo kill -9 1004
+ 1710  sudo netstat -plten|grep java
+ 1711  sudo fuser -k -n tcp 8888
+ 1712  sudo kill -9 $(sudo lsof -i6 -t -i:8094)
+ 1713  npm i
+ 1714  ng serve
+ 1715  history
+ 1716  sudo service mysql status
+ 1717  sudo service mysql stop
+ 1718  sudo service mysql status
+ 1719  sudo systemctl status rabbitmq-server
+ 1720  sudo systemctl stop rabbitmq-server
+ 1721  sudo systemctl status rabbitmq-server
+ 1722  sudo service mongod status
+ 1723  sudo kill -9 $(lsof -t -i:8888 -sTCP:LISTEN)
+ 1724  sudo kill -9 $(lsof -t -i:8888)
+ 1725  sudo kill $(lsof -t -i:8888)
+ 1726  sudo kill -9 $(sudo lsof -t -i:8888)
+ 1727  sudo kill -9 $(sudo lsof -t -i:8888 -sTCP:LISTEN)
+ 1728  sudo kill -9 $(sudo lsof -t -i:4200)
+ 1729  sudo kill -9 $(sudo lsof -t -i:8888)
+ 1730  history
+ 1731  git pull origin v1.0.2
+ 1732  git status
+ 1733  git add .
+ 1734  git commit -m "getByEmailId method connected to backend for service provider and innovator profile"
+ 1735  git push origin v1.0.2
+ 1736  sudo chmod 777 -R data
+ 1737  sudo kill -9 $(sudo lsof -t -i:8094)
+ 1738  docker ps
+ 1739  sudo docker ps
+ 1740  sudo docker ps -a
+ 1741  sudo netstat -tunlp
+ 1742  sudo netstat -tunlp | grep 8089
+ 1743  history 
+ 1744  sudo netstat -tunlp | grep 8089
+ 1745  kill -9 3285
+ 1746  sudo kill -9 3285
+ 1747  sudo su
+ 1748  sudo -i
+ 1749  sudo service mysql stop
+ 1750  sudo systemctl stop rabbitmq-server
+ 1751  sudo netstat -tunlp
+ 1752  docker ps
+ 1753  sudo docker ps
+ 1754  sudo netstat -tunlp
+ 1755  ls -la /etc/init.d/
+ 1756  ls -la /etc/init.d/ | grep java
+ 1757  sudo docker system df
+ 1758  sudo docker system prune -a -f
+ 1759  clear
+ 1760  docker ps
+ 1761  sudo docker ps
+ 1762  sudo docker ps -a
+ 1763  sudo netstat -tunlp
+ 1764  which java
+ 1765  ls -la /usr/bin/java
+ 1766  whereis java
+ 1767  ls -la /usr/lib/jvm/java-11-oracle/bin/java
+ 1768  ls -la /usr/lib/jvm/java-11-oracle/
+ 1769  ls -la /usr/lib/jvm/java-11-oracle/conf/
+ 1770  apt-config --help
+ 1771  sudo netstat -tunlp
+ 1772  kill -9 3490
+ 1773  sudo kill -9 3490
+ 1774  sudo su
+ 1775  sudo kill -9 3490
+ 1776  sudo su
+ 1777  sudo fuser 8094/tcp
+ 1778  sudo fuser -k 8094/tcp
+ 1779  sudo docker ps
+ 1780  netstat -tulpn
+ 1781  sudo kill -9 $(sudo lsof -t -i:8094)
+ 1782  sudo docker ps
+ 1783  sudo su
+ 1784  sudo -u root kill -HUP 8888
+ 1785  sudo -u root kill -HUP 3375
+ 1786  sudo su
+ 1787  netstat -tulpn
+ 1788  sudo su 
+ 1789  sudo netstat -tunlp
+ 1790  sudo bash -c kill 3375
+ 1791  sudo netstat -tunlp
+ 1792  ps aux | grep java
+ 1793  sudo su
+ 1794  ps -eaf | grep java 
+ 1795  sudo kill -9 3304
+ 1796  ps -eaf | grep java 
+ 1797  sudo kill -9 3295
+ 1798  ps -eaf | grep java 
+ 1799  docker ps -a
+ 1800  sudo docker ps -a
+ 1801  sudo netstat -tunlp
+ 1802  sudo su
+ 1803  sudo /etc/
+ 1804  sudo /etc/init.d/
+ 1805  clear
+ 1806  su
+ 1807  sudo su -
+ 1808  history
+ 1809  sudo docker images
+ 1810  sudo docker system prune -a
+ 1811  sudo docker system prune df9 119 937
+ 1812  sudo docker system prune --help
+ 1813  sudo docker ps~
+ 1814  sudo docker stop 836 89b 5f0
+ 1815  sudo docker rm 836 89b 5f0
+ 1816  sudo docker ps
+ 1817  sudo docker images
+ 1818  sudo docker system prune -a
+ 1819  sudo docker images
+ 1820  sudo docker ps
+ 1821  sudo service mysql stop
+ 1822  sudo systemctl stop rabbitmq-server
+ 1823  netstat -tulpn
+ 1824  sudo netstat -tunlp
+ 1825  sudo netstat -tunlp |grep 8888
+ 1826  sudo kill -09 10274
+ 1827  sudo netstat -tunlp |grep 8888
+ 1828  sudo netstat -tunlp 
+ 1829  sudo netstat -tunlp |grep 8094
+ 1830  sudo kill -09 10999
+ 1831  sudo netstat -tunlp |grep 8094
+ 1832  sudo netstat -tunlp 
+ 1833  sudo netstat -tunlp |grep 8077
+ 1834  sudo kill -09 11280
+ 1835  sudo netstat -tunlp |grep 8088
+ 1836  sudo kill -09 11116
+ 1837  sudo netstat -tunlp 
+ 1838  sudo chmod 777 -R data
+ 1839  history
+ 1840  ng serve
+ 1841  cd ..
+ 1842  cd user-login-service/
+ 1843  mvn clean package
+ 1844  cd ..
+ 1845  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1846  cd config-server/
+ 1847  mvn clean package
+ 1848  cd ..
+ 1849  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1850  sudo docker ps
+ 1851  sudo docker-compose down
+ 1852  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1853  sudo docker ps
+ 1854  sudo docker-compose down
+ 1855  git status
+ 1856  sudo chmod 777 -R data
+ 1857  git add .
+ 1858  git commit -m "routing to perticular innovator-profile after login done"
+ 1859  git push origin v1.0.2
+ 1860  git pull origin v1.0.2
+ 1861  git push origin v1.0.2
+ 1862  git add .
+ 1863  git commit -m "routing to perticular innovator-profile after login done"
+ 1864  git push origin v1.0.2
+ 1865  git clone -b v1.0.2 https://github.com/stackroute/ibm-wave5-I2PS.git
+ 1866  git pull origin v1.0.2
+ 1867  git status
+ 1868  git add .
+ 1869  git commit -m "routing to perticular service provider profile done"
+ 1870  git push origin v1.0.2
+ 1871  git pull origin v1.0.2
+ 1872  history
+ 1873  git status
+ 1874  git add .
+ 1875  git commit -m "service-provider dashboard modified"
+ 1876  git push origin v1.0.2
+ 1877  sudo docker ps
+ 1878  sudo docker exec -it fb5 bash
+ 1879  sudo docker ps
+ 1880  mongo
+ 1881  git status
+ 1882  sudo docker ps
+ 1883  sudo service mysql stop
+ 1884  sudo service mongod stop
+ 1885  sudo systemctl stop rabbit-server
+ 1886  sudo systemctl stop rabbitmq-server
+ 1887  sudo docker ps
+ 1888  sudo docker images
+ 1889  ng serve --prod
+ 1890  sudo docker build -t angular-frontend:1.0 .
+ 1891  ng serve --prod
+ 1892  ng build --prod
+ 1893  sudo docker o\ps
+ 1894  sudo docker ps
+ 1895  sudo docker rm f05
+ 1896  sudo docker stop f05
+ 1897  sudo docker rm f05
+ 1898  sudo service mysql stop
+ 1899  sudo service mongod stop
+ 1900  sudo service rabbitmq-server stop
+ 1901  sudo docker ps
+ 1902  sudo docker images
+ 1903  sudo docker prune -a
+ 1904  sudo docker system prune -a
+ 1905  sudo docker images
+ 1906  sudo docker ps
+ 1907  sudo service mysql stop
+ 1908  sudo service mongod stop
+ 1909  sudo service rabbitmq-server stop
+ 1910  sudo service mysql status
+ 1911  sudo service mongod status
+ 1912  sudo service rabbitmq-server status
+ 1913  sudo docker ps
+ 1914  sudo docker stop $(sudo docker ps -aq)
+ 1915  sudo docker ps
+ 1916  sudo docker rm $(sudo docker ps -aq)
+ 1917  sudo docker ps
+ 1918  sudo docker images
+ 1919  sudo docker rmi $(sudo docker ps -aq)
+ 1920  sudo docker ps
+ 1921  sudo docker-compose up --build -d config-service mysql mongo rabbitmq
+ 1922  sudo netstat -tunlp 
+ 1923  sudo netstat -tunlp |grep 8094 
+ 1924  sudo kill -09 5083
+ 1925  sudo kill -09 8094
+ 1926  sudo netstat -tunlp 
+ 1927  sudo docker stop $(sudo docker ps -aq)
+ 1928  sudo docker ps
+ 1929  sudo docker ps -a
+ 1930  sudo docker rm $(sudo docker ps -aq)
+ 1931  sudo service mysql stop
+ 1932  sudo service mongod stop
+ 1933  sudo service rabbitmq-server stop
+ 1934  mongod
+ 1935  sudo service mongod stop
+ 1936  sudo doker ps
+ 1937  sudo docker ps
+ 1938  sudo docker stop 8c8 3d5
+ 1939  sudo docker rm 8c8 3d5
+ 1940  sudo docker ps
+ 1941  netstat -tulpn
+ 1942  sudo netstat -tunlp
+ 1943  sudo netstat -tunlp |grep 8888
+ 1944  sudo kill $(sudo lsof -t -i:8094)
+ 1945  sudo service mysql stop
+ 1946  sudo service rabbitmq-server stop
+ 1947  sudo docker ps
+ 1948  netstat - tunlp
+ 1949  sudo kill -09 3454
+ 1950  sudo kill -9 3454
+ 1951  sudo netstat -tunlp | grep 8888
+ 1952  sudo kill -09 24762
+ 1953  sudo su 
+ 1954  sudo kill -10 24762
+ 1955  sudo kill -09 24762
+ 1956  sudo kill -009 24762
+ 1957  sudo kill -15 24762
+ 1958  sudo netstat -tunlp | grep 8888
+ 1959  sudo kill -09 24762
+ 1960  sudo su
+ 1961  sudo apt install xorg-xkill
+ 1962  v
+ 1963  xkill
+ 1964  clear
+ 1965  ps aux | grep java
+ 1966  sudo su 
+ 1967  sudo docker ps
+ 1968  sudo docker images
+ 1969  sudo netstat -tunlp
+ 1970  sudo netstat -tunlp|grep 8063
+ 1971  sudo kill -09 3697
+ 1972  sudo docker ps
+ 1973  sudo docker images
+ 1974  sudo docker-compose up --build -d config-service mongo mysql rabbitmq
+ 1975  sudo docker ps
+ 1976  sudo docker images
+ 1977  sudo service mysql stop
+ 1978  sudo service mongod stop
+ 1979  sudo service rabbitmq-server stop
+ 1980  sudo su
+ 1981  wget https://download.anydesk.com/linux/anydesk_5.1.1-1_amd64.deb
+ 1982  sudo dpkg -i anydesk_5.1.1-1_amd64.deb
+ 1983  sudo apt-get install -f
+ 1984  netstat -tunlp
+ 1985  pidof java
+ 1986  sudo kill -9 4716
+ 1987  sudo su 
+ 1988  sudo su
+ 1989  pidof java
+ 1990  history 
+ 1991  sudo killall java
+ 1992  sudo docker ps
+ 1993  sudo netstat -tunlp
+ 1994  sudo kill -9 4558 
+ 1995  sudo netstat -tunlp
+ 1996  sudo kill -9 7823
+ 1997  sudo kill -9 32392
+ 1998  kill -9 32392
+ 1999  sudo kill --help
+ 2000  man kill
+ 2001  pkill -9 32392
+ 2002  sudo netstat -tunlp
+ 2003  pkill  32392
+ 2004  sudo netstat -tunlp
+ 2005  kill 32392
+ 2006  kill -l
+ 2007  kill -16 32392
+ 2008  kill -15 32392
+ 2009  sudo kill -15 32392
+ 2010  ps -up 32392
+ 2011  killall java
+ 2012  sudo netstat -tunlp
+ 2013  ps -ef |grep java
+ 2014  sudo kill -9 32361
+ 2015  ps -ef |grep java
+ 2016  sudo kill -9 32392 1 
+ 2017  ps -ef |grep java
+ 2018  search_term=java
+ 2019  kill $(ps aux | grep "$search_term" | grep -v 'grep' | awk '{print $2}')
+ 2020  sudo kill -9 $(ps aux | grep "$search_term" | grep -v 'grep' | awk '{print $2}')
+ 2021  PID=`ps -C java -o pid=`
+ 2022  kill -9 $PID
+ 2023  sudo kill -9 $PID
+ 2024  sudo netstat -tunlp
+ 2025  ps
+ 2026  sudo kill -SIGKILL 32392
+ 2027  kill -SIGKILL 32392
+ 2028  kill -0 32392
+ 2029  sudo sleep 60 &
+ 2030  kill -0 $!; echo "Exit status: $?"
+ 2031  sudo kill -0 $!; echo "Exit status: $?"
+ 2032  sudo netstat -tunlp
+ 2033  sudo sleep 60 &
+ 2034  sudo kill -0 $!; echo "Exit status: $?"
+ 2035  sudo netstat -tunlp
+ 2036  java unintall
+ 2037  clear
+ 2038  sudo netstat -tunlp
+ 2039* 
+ 2040  sudo netstat -tunlp
+ 2041  javac --version
+ 2042  sudo rm -r /usr/lib/jvm/java-11-oracle
+ 2043  sudo apt install openjdk-8-jdk openjdk-8-jre
+ 2044  java -version
+ 2045  javac --version
+ 2046  sudo apt update
+ 2047  java -version
+ 2048  sudo apt install default-jre
+ 2049  java -version
+ 2050  sudo apt install default-jdk
+ 2051  javac -version
+ 2052  sudo rm -r /usr/lib/jvm/java-11-oracle
+ 2053  sudo rm -r /usr/lib/jvm/java  1.8.0_212
+ 2054  sudo rm -r /usr/lib/jvm/java 1.8.0_212
+ 2055  sudo rm -r /usr/lib/jvm/java-1.8.0_212
+ 2056  java -version
+ 2057  sudo apt-get autoremove openjdk-1.8.0_212-jdk
+ 2058  javac --version
+ 2059  java -version
+ 2060  /usr/lib/jvm/java-7-oracle
+ 2061  /usr/lib/jvm/
+ 2062  cd /usr/lib/jvm/
+ 2063  ls
+ 2064  rm -rf *
+ 2065  sudo rm -rf *
+ 2066  ls
+ 2067  cd 
+ 2068  javac --version
+ 2069  java -version
+ 2070  java --version
+ 2071  sudo netstat -tunlp
+ 2072  history
+prerna@ibm-wave5:~$ 
+

@@ -1,0 +1,16 @@
+.fixed-header
+{
+  background-color: #4CAF50; 
+}
+
+
+.example-card
+{
+  width: 500px;
+  display: inline-block;
+}
+
+.login-button
+{
+  background-color: #4CAF50;
+} 

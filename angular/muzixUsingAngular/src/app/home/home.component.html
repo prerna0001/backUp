@@ -1,0 +1,34 @@
+<p>
+  home works!
+</p>
+
+<h1>welcome to musix application</h1>
+<form>
+  <input #input type="text">
+  <button (click)=click(input.value)>Search</button>
+</form>
+<br>
+<a routerLink='/wish' routerLinkActive="active">goto wish list</a>
+<br>
+<br>
+<div class="container-fluid">
+  <h2>Trending Music here</h2>
+
+  <div class="container-fluid d-flex flex-wrap my-2">
+    <div class="card col-sm-12 col-md-4 col-lg-3" style="width: 18rem;" *ngFor="let music of arrayOfMusic">
+      
+      <div class="card-body">
+        <h5 class="card-title">Music Name : {{music.name}}</h5>
+      </div>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">Artist : {{music.artist.name}}</li>
+      </ul>
+      <div class="card-body">
+         <button class="btn btn-outline-primary mx-2" (click)="addToWish(music)">Add to wishlist</button> 
+         <button class="btn btn-outline-primary mx-2" (click)="detailMusic(music)">Details</button>  
+
+      </div>
+    </div>
+  </div>
+
+ 
